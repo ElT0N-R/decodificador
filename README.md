@@ -31,9 +31,13 @@ Bem-vindo ao **Decodificador de Texto**! Este é um projeto simples e intuitivo 
 /decodificador-de-texto
 │
 ├──  index.html # Estrutura principal do projeto
+
 ├──  index.css # Estilos personalizados para a interface
+
 ├──  main.js # Lógica de criptografia e descriptografia
+
 └──  /src
+
 └──  /img # Imagens usadas no projeto
 
 
