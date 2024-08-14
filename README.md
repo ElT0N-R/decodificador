@@ -29,7 +29,9 @@ Bem-vindo ao **Decodificador de Texto**! Este é um projeto simples e intuitivo 
 ## 📦 Estrutura do Projeto
 
 /decodificador-de-texto
+
 │
+
 ├──  index.html # Estrutura principal do projeto
 
 ├──  index.css # Estilos personalizados para a interface
